@@ -1,6 +1,5 @@
 # Minecraft Maps and Skinpacks by Potato
 
-![Minecraft Logo]([https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/main/resources/img/logo.png](https://raw.githubusercontent.com/DaFlopper/daflopper.github.io/main/minecraft_logo_icon_168974.png))
 
 Welcome to my website for my collection of Minecraft maps and skinpacks! Here you'll find a diverse range of creations that I have personally crafted for fellow Minecraft enthusiasts to enjoy. Whether you're looking for exciting adventures or unique character customization options, you've come to the right place.
 
