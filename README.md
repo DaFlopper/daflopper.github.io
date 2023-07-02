@@ -1,6 +1,5 @@
 # Minecraft Maps and Skinpacks by Potato
 
-
 Welcome to my website for my collection of Minecraft maps and skinpacks! Here you'll find a diverse range of creations that I have personally crafted for fellow Minecraft enthusiasts to enjoy. Whether you're looking for exciting adventures or unique character customization options, you've come to the right place.
 
 ## Table of Contents
