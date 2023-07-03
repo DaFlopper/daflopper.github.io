@@ -1,0 +1,107 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed:ital,wght@0,300;0,400;0,700;1,300;1,400;1,700&display=swap');
+
+::-webkit-scrollbar {
+  width: 0px;
+}
+
+html {
+  background-color:#40adff;
+  background-image: url('https://Api.fwxr.repl.co/css/background.gif');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  background-position: center;
+}
+
+body {
+  font-family: 'Roboto Condensed', sans-serif;
+  font-size: 100% auto;
+  width: 100% auto;
+  height: 100% auto;
+}
+
+a {
+  text-decoration: none;
+}
+
+main { 
+  display: flex; 
+  align-items: center; 
+  justify-content: center; 
+}
+
+div.fr1 {
+  background: rgba(0, 0, 0, 0.75);
+  font-size: 1.3em;
+  color: whitesmoke;
+  padding: 1em;
+  border-radius: 0.5em;
+}
+
+div.fr1 a {
+  color: turquoise;
+  transition: 1s;
+}
+
+div.fr1 a:hover {
+  color: white;
+  text-shadow: 0 0 8px #3ba4ff;
+}
+
+fieldset {
+  background: rgba(0, 0, 0, 0.50);
+  border: 3.3px solid dodgerblue;
+  border-radius: 10px;
+  text-align: center;
+}
+
+legend {
+  border: 1px solid dodgerblue;
+  padding: 8px;
+  text-align: center;
+  background-color: dodgerblue;
+  border-radius: 8px;
+}
+
+div.fr2 {
+  background: rgba(0, 0, 0, 0.40);
+  font-size: 1em;
+  color: whitesmoke;
+  padding: 1em;
+  border-radius: 0.5em;
+}
+
+div.fr2 a {
+  color: turquoise;
+  transition: 1s;
+}
+
+div.fr2 a:hover {
+  color: white;
+  text-shadow: 0 0 8px #1e90ff;
+}
+
+div.alert {
+  position: -webkit-sticky;
+  position: sticky;
+  top: 0;
+  padding: 10px;
+  background-color: #1e90ff;
+  color: white;
+  margin-bottom: 15px;
+}
+
+span.close {
+  margin-left: 15px;
+  color: white;
+  font-weight: bold;
+  float: right;
+  font-size: 22px;
+  line-height: 20px;
+  cursor: pointer;
+  transition: 0.3s;
+}
+
+span.close:hover {
+  color: gray;
+}
