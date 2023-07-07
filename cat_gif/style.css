@@ -4,9 +4,28 @@ body {
   padding: 0;
 }
 
+.discord-embed {
+  background-color: #7289DA;
+  max-width: 400px;
+  margin: 0 auto;
+  border-radius: 4px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  overflow: hidden;
+}
+
+.discord-bar {
+  background-color: #DF62ED;
+  height: 20px;
+}
+
+.discord-content {
+  padding: 10px;
+  color: #FFFFFF;
+}
+
 h1 {
   text-align: center;
-  margin-top: 30px;
+  margin-top: 20px;
 }
 
 .gallery {
